@@ -1,6 +1,6 @@
 # Race of Sloths Onboarding ☄️
 
-Race of Sloths is a GitHub bot-user that helps open-source contributors collect Sloth Points while contributing to projects on GitHub.
+[Race of Sloths](https://race-of-sloths.com) is a GitHub bot-user that helps open-source contributors collect Sloth Points while contributing to projects on GitHub.
 
 1. Follow your regular GitHub flow: Create a regular PR ([example](https://github.com/race-of-sloths/race-of-sloths-onboarding/pull/2))
 2. Tag `@race-of-sloths` user in the description (or PR comment)
